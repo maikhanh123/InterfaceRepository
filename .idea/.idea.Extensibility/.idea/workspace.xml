@@ -1,0 +1,663 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="827e3342-15c0-4f44-abb7-3c5107fa36ea" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-425577681">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="config" value="1" />
+          <entry key="cs" value="23" />
+          <entry key="json" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="C#" value="23" />
+          <entry key="Config" value="1" />
+          <entry key="JSON" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="cs" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="C#" value="2" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/PersonRepository.CSV/CSVRepository.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="19" column="46" selection-start-line="19" selection-start-column="46" selection-end-line="19" selection-end-column="46" />
+              <folding>
+                <marker date="1540132290000" expanded="false" signature="6:145" ph="..." />
+                <marker date="1540132290000" expanded="true" signature="177:1945" ph="{...}" />
+                <marker date="1540132290000" expanded="true" signature="230:1943" ph="{...}" />
+                <marker date="1540132290000" expanded="true" signature="289:454" ph="{...}" />
+                <marker date="1540132290000" expanded="true" signature="502:1450" ph="{...}" />
+                <marker date="1540132290000" expanded="true" signature="593:1413" ph="{...}" />
+                <marker date="1540132290000" expanded="true" signature="667:1399" ph="{...}" />
+                <marker date="1540132290000" expanded="true" signature="780:1381" ph="{...}" />
+                <marker date="1540132290000" expanded="true" signature="933:1314" ph="{...}" />
+                <marker date="1540132290000" expanded="true" signature="1491:1575" ph="{...}" />
+                <marker date="1540132290000" expanded="true" signature="1624:1693" ph="{...}" />
+                <marker date="1540132290000" expanded="true" signature="1757:1826" ph="{...}" />
+                <marker date="1540132290000" expanded="true" signature="1868:1937" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PeopleViewer/App.config">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PersonRepository.Service/ServiceRepository.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="11" column="54" selection-start-line="11" selection-start-column="54" selection-end-line="11" selection-end-column="54" />
+              <folding>
+                <marker date="1543691222000" expanded="false" signature="6:122" ph="..." />
+                <marker date="1543691222000" expanded="true" signature="158:1078" ph="{...}" />
+                <marker date="1543691222000" expanded="true" signature="215:1076" ph="{...}" />
+                <marker date="1543691222000" expanded="true" signature="374:598" ph="{...}" />
+                <marker date="1543691222000" expanded="true" signature="639:708" ph="{...}" />
+                <marker date="1543691222000" expanded="true" signature="757:826" ph="{...}" />
+                <marker date="1543691222000" expanded="true" signature="868:937" ph="{...}" />
+                <marker date="1543691222000" expanded="true" signature="1001:1070" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PersonRepository.SQL/SQLRepository.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="12" column="30" lean-forward="true" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
+              <folding>
+                <marker date="1540718720000" expanded="false" signature="6:137" ph="..." />
+                <marker date="1540718720000" expanded="true" signature="169:2335" ph="{...}" />
+                <marker date="1540718720000" expanded="true" signature="222:2333" ph="{...}" />
+                <marker date="1540718720000" expanded="true" signature="309:517" ph="{...}" />
+                <marker date="1540718720000" expanded="true" signature="565:723" ph="{...}" />
+                <marker date="1540718720000" expanded="true" signature="636:713" ph="{...}" />
+                <marker date="1540718720000" expanded="true" signature="764:952" ph="{...}" />
+                <marker date="1540718720000" expanded="true" signature="835:942" ph="{...}" />
+                <marker date="1540718720000" expanded="true" signature="1001:1196" ph="{...}" />
+                <marker date="1540718720000" expanded="true" signature="1072:1186" ph="{...}" />
+                <marker date="1540718720000" expanded="true" signature="1260:1933" ph="{...}" />
+                <marker date="1540718720000" expanded="true" signature="1331:1923" ph="{...}" />
+                <marker date="1540718720000" expanded="true" signature="1458:1909" ph="{...}" />
+                <marker date="1540718720000" expanded="true" signature="1975:2327" ph="{...}" />
+                <marker date="1540718720000" expanded="true" signature="2046:2317" ph="{...}" />
+                <marker date="1540718720000" expanded="true" signature="2173:2303" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PersonRepository.SQL/PersonContext.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <marker date="1540131960000" expanded="false" signature="6:70" ph="..." />
+                <marker date="1540131960000" expanded="true" signature="102:322" ph="{...}" />
+                <marker date="1540131960000" expanded="true" signature="147:320" ph="{...}" />
+                <marker date="1540131960000" expanded="true" signature="251:263" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PeopleViewer/MainWindow.xaml.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="444">
+              <caret line="33" column="26" lean-forward="true" selection-start-line="33" selection-start-column="26" selection-end-line="33" selection-end-column="26" />
+              <folding>
+                <marker date="1543693624000" expanded="false" signature="6:87" ph="..." />
+                <marker date="1543693624000" expanded="true" signature="111:1511" ph="{...}" />
+                <marker date="1543693624000" expanded="true" signature="158:1509" ph="{...}" />
+                <marker date="1543693624000" expanded="true" signature="192:247" ph="{...}" />
+                <marker date="1543693624000" expanded="true" signature="328:388" ph="{...}" />
+                <marker date="1543693624000" expanded="true" signature="465:521" ph="{...}" />
+                <marker date="1543693624000" expanded="true" signature="598:654" ph="{...}" />
+                <marker date="1543693624000" expanded="true" signature="715:1059" ph="{...}" />
+                <marker date="1543693624000" expanded="true" signature="1133:1181" ph="{...}" />
+                <marker date="1543693624000" expanded="true" signature="1218:1336" ph="{...}" />
+                <marker date="1543693624000" expanded="true" signature="1407:1503" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PersonRepository.Interface/IPersonRepository.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <marker date="1540130854000" expanded="false" signature="6:47" ph="..." />
+                <marker date="1540130854000" expanded="true" signature="85:353" ph="{...}" />
+                <marker date="1540130854000" expanded="true" signature="126:351" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PersonRepository.Factory/RepositoryFactory.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <marker date="1543693550000" expanded="false" signature="6:135" ph="..." />
+                <marker date="1543693550000" expanded="true" signature="171:848" ph="{...}" />
+                <marker date="1543693550000" expanded="true" signature="215:846" ph="{...}" />
+                <marker date="1543693550000" expanded="true" signature="298:840" ph="{...}" />
+                <marker date="1543693550000" expanded="true" signature="394:798" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/People.Service/Controllers/PeopleController.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="12" column="27" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
+              <folding>
+                <marker date="1537674502000" expanded="false" signature="6:147" ph="..." />
+                <marker date="1537674502000" expanded="true" signature="185:784" ph="{...}" />
+                <marker date="1537674502000" expanded="true" signature="290:782" ph="{...}" />
+                <marker date="1537674502000" expanded="true" signature="389:447" ph="{...}" />
+                <marker date="1537674502000" expanded="true" signature="533:594" ph="{...}" />
+                <marker date="1537674502000" expanded="true" signature="683:776" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/People.Service/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/People.Service/Models/StaticPeopleProvider.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/People.Service/Models/IPeopleProvider.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/People.Service/Controllers/PeopleController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PersonRepository.CSV/CSVRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PersonRepository.SQL/PersonContext.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PeopleViewer/MainWindow.xaml.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PersonRepository.SQL/SQLRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PersonRepository.Factory/RepositoryFactory.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PeopleViewer/App.config" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PersonRepository.Service/ServiceRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PersonRepository.Interface/IPersonRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PersonRepository.Interface/Person.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/People.Service/Startup.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/PersonRepository.Interface/IPersonRepository.cs" />
+        <option value="$PROJECT_DIR$/People.Service/Models/IPeopleProvider.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1680" />
+    <option name="height" value="1050" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Extensibility" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Extensibility" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Repositories" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Extensibility" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Repositories" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="PersonRepository.CSV" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Extensibility" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Repositories" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="PersonRepository.Factory" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Extensibility" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Repositories" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="PersonRepository.Interface" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Extensibility" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Repositories" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="PersonRepository.Service" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Extensibility" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Repositories" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="PersonRepository.SQL" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Extensibility" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="PeopleViewer" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Extensibility" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="PeopleViewer" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="MainWindow.xaml" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-all-files" value="false" />
+      </pane>
+      <pane id="FileSystemExplorer" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected=".NET Project.Services\People.Service">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/PeopleViewer/bin/Debug/PeopleViewer.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PeopleViewer/bin/Debug" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/PeopleViewer/PeopleViewer.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.7" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Services\People.Service" type="DotNetProject" factoryName=".NET Project" temporary="true">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/People.Service/bin/Debug/netcoreapp2.1/People.Service.dll" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/People.Service" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/People.Service/People.Service.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v2.1" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue=".NET Project.Default" />
+      <item itemvalue=".NET Project.Services\People.Service" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue=".NET Project.Services\People.Service" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="827e3342-15c0-4f44-abb7-3c5107fa36ea" name="Default Changelist" comment="" />
+      <created>1551946330319</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1551946330319</updated>
+      <workItem from="1551946331820" duration="5888000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="5888000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24969475" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="NuGet" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unit Tests" />
+      <window_info anchor="bottom" id="REST Client" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Build" weight="0.32959184" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32959184" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Errors In Solution" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/PersonRepository.Interface/Person.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1540130888000" expanded="true" signature="51:585" ph="{...}" />
+            <marker date="1540130888000" expanded="true" signature="77:583" ph="{...}" />
+            <marker date="1540130888000" expanded="true" signature="392:577" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/People.Service/Models/StaticPeopleProvider.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="30" lean-forward="true" selection-start-line="25" selection-start-column="30" selection-end-line="25" selection-end-column="30" />
+          <folding>
+            <marker date="1537674540000" expanded="true" signature="6:81" ph="..." />
+            <marker date="1537674540000" expanded="true" signature="114:1713" ph="{...}" />
+            <marker date="1537674540000" expanded="true" signature="172:1711" ph="{...}" />
+            <marker date="1537674540000" expanded="true" signature="218:1705" ph="{...}" />
+            <marker date="1537674540000" expanded="true" signature="280:1672" ph="{...}" />
+            <marker date="1537674540000" expanded="true" signature="311:428" ph="{...}" />
+            <marker date="1537674540000" expanded="true" signature="459:574" ph="{...}" />
+            <marker date="1537674540000" expanded="true" signature="605:769" ph="{...}" />
+            <marker date="1537674540000" expanded="true" signature="800:918" ph="{...}" />
+            <marker date="1537674540000" expanded="true" signature="949:1065" ph="{...}" />
+            <marker date="1537674540000" expanded="true" signature="1096:1212" ph="{...}" />
+            <marker date="1537674540000" expanded="true" signature="1243:1361" ph="{...}" />
+            <marker date="1537674540000" expanded="true" signature="1392:1510" ph="{...}" />
+            <marker date="1537674540000" expanded="true" signature="1541:1657" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/People.Service/Models/IPeopleProvider.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1537674524000" expanded="true" signature="6:67" ph="..." />
+            <marker date="1537674524000" expanded="true" signature="100:187" ph="{...}" />
+            <marker date="1537674524000" expanded="true" signature="139:185" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/People.Service/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+          <folding>
+            <marker date="1531920820000" expanded="false" signature="6:255" ph="..." />
+            <marker date="1531920820000" expanded="true" signature="281:658" ph="{...}" />
+            <marker date="1531920820000" expanded="true" signature="308:656" ph="{...}" />
+            <marker date="1531920820000" expanded="true" signature="361:435" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/People.Service/Startup.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="9" lean-forward="true" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+          <folding>
+            <marker date="1531921090000" expanded="true" signature="6:222" ph="..." />
+            <marker date="1531921090000" expanded="true" signature="248:1162" ph="{...}" />
+            <marker date="1531921090000" expanded="true" signature="275:1160" ph="{...}" />
+            <marker date="1531921090000" expanded="true" signature="334:397" ph="{...}" />
+            <marker date="1531921090000" expanded="true" signature="620:805" ph="{...}" />
+            <marker date="1531921090000" expanded="true" signature="993:1154" ph="{...}" />
+            <marker date="1531921090000" expanded="true" signature="1040:1117" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/People.Service/appsettings.Development.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/People.Service/appsettings.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/People.Service/Controllers/PeopleController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="12" column="27" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
+          <folding>
+            <marker date="1537674502000" expanded="false" signature="6:147" ph="..." />
+            <marker date="1537674502000" expanded="true" signature="185:784" ph="{...}" />
+            <marker date="1537674502000" expanded="true" signature="290:782" ph="{...}" />
+            <marker date="1537674502000" expanded="true" signature="389:447" ph="{...}" />
+            <marker date="1537674502000" expanded="true" signature="533:594" ph="{...}" />
+            <marker date="1537674502000" expanded="true" signature="683:776" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PersonRepository.SQL/PersonContext.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1540131960000" expanded="false" signature="6:70" ph="..." />
+            <marker date="1540131960000" expanded="true" signature="102:322" ph="{...}" />
+            <marker date="1540131960000" expanded="true" signature="147:320" ph="{...}" />
+            <marker date="1540131960000" expanded="true" signature="251:263" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PersonRepository.Factory/RepositoryFactory.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1543693550000" expanded="false" signature="6:135" ph="..." />
+            <marker date="1543693550000" expanded="true" signature="171:848" ph="{...}" />
+            <marker date="1543693550000" expanded="true" signature="215:846" ph="{...}" />
+            <marker date="1543693550000" expanded="true" signature="298:840" ph="{...}" />
+            <marker date="1543693550000" expanded="true" signature="394:798" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PeopleViewer/MainWindow.xaml.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="444">
+          <caret line="33" column="26" lean-forward="true" selection-start-line="33" selection-start-column="26" selection-end-line="33" selection-end-column="26" />
+          <folding>
+            <marker date="1543693624000" expanded="false" signature="6:87" ph="..." />
+            <marker date="1543693624000" expanded="true" signature="111:1511" ph="{...}" />
+            <marker date="1543693624000" expanded="true" signature="158:1509" ph="{...}" />
+            <marker date="1543693624000" expanded="true" signature="192:247" ph="{...}" />
+            <marker date="1543693624000" expanded="true" signature="328:388" ph="{...}" />
+            <marker date="1543693624000" expanded="true" signature="465:521" ph="{...}" />
+            <marker date="1543693624000" expanded="true" signature="598:654" ph="{...}" />
+            <marker date="1543693624000" expanded="true" signature="715:1059" ph="{...}" />
+            <marker date="1543693624000" expanded="true" signature="1133:1181" ph="{...}" />
+            <marker date="1543693624000" expanded="true" signature="1218:1336" ph="{...}" />
+            <marker date="1543693624000" expanded="true" signature="1407:1503" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PersonRepository.Interface/IPersonRepository.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1540130854000" expanded="false" signature="6:47" ph="..." />
+            <marker date="1540130854000" expanded="true" signature="85:353" ph="{...}" />
+            <marker date="1540130854000" expanded="true" signature="126:351" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PersonRepository.Service/ServiceRepository.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="11" column="54" selection-start-line="11" selection-start-column="54" selection-end-line="11" selection-end-column="54" />
+          <folding>
+            <marker date="1543691222000" expanded="false" signature="6:122" ph="..." />
+            <marker date="1543691222000" expanded="true" signature="158:1078" ph="{...}" />
+            <marker date="1543691222000" expanded="true" signature="215:1076" ph="{...}" />
+            <marker date="1543691222000" expanded="true" signature="374:598" ph="{...}" />
+            <marker date="1543691222000" expanded="true" signature="639:708" ph="{...}" />
+            <marker date="1543691222000" expanded="true" signature="757:826" ph="{...}" />
+            <marker date="1543691222000" expanded="true" signature="868:937" ph="{...}" />
+            <marker date="1543691222000" expanded="true" signature="1001:1070" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PersonRepository.SQL/SQLRepository.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="12" column="30" lean-forward="true" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
+          <folding>
+            <marker date="1540718720000" expanded="false" signature="6:137" ph="..." />
+            <marker date="1540718720000" expanded="true" signature="169:2335" ph="{...}" />
+            <marker date="1540718720000" expanded="true" signature="222:2333" ph="{...}" />
+            <marker date="1540718720000" expanded="true" signature="309:517" ph="{...}" />
+            <marker date="1540718720000" expanded="true" signature="565:723" ph="{...}" />
+            <marker date="1540718720000" expanded="true" signature="636:713" ph="{...}" />
+            <marker date="1540718720000" expanded="true" signature="764:952" ph="{...}" />
+            <marker date="1540718720000" expanded="true" signature="835:942" ph="{...}" />
+            <marker date="1540718720000" expanded="true" signature="1001:1196" ph="{...}" />
+            <marker date="1540718720000" expanded="true" signature="1072:1186" ph="{...}" />
+            <marker date="1540718720000" expanded="true" signature="1260:1933" ph="{...}" />
+            <marker date="1540718720000" expanded="true" signature="1331:1923" ph="{...}" />
+            <marker date="1540718720000" expanded="true" signature="1458:1909" ph="{...}" />
+            <marker date="1540718720000" expanded="true" signature="1975:2327" ph="{...}" />
+            <marker date="1540718720000" expanded="true" signature="2046:2317" ph="{...}" />
+            <marker date="1540718720000" expanded="true" signature="2173:2303" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PeopleViewer/App.config">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PersonRepository.CSV/CSVRepository.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="19" column="46" selection-start-line="19" selection-start-column="46" selection-end-line="19" selection-end-column="46" />
+          <folding>
+            <marker date="1540132290000" expanded="false" signature="6:145" ph="..." />
+            <marker date="1540132290000" expanded="true" signature="177:1945" ph="{...}" />
+            <marker date="1540132290000" expanded="true" signature="230:1943" ph="{...}" />
+            <marker date="1540132290000" expanded="true" signature="289:454" ph="{...}" />
+            <marker date="1540132290000" expanded="true" signature="502:1450" ph="{...}" />
+            <marker date="1540132290000" expanded="true" signature="593:1413" ph="{...}" />
+            <marker date="1540132290000" expanded="true" signature="667:1399" ph="{...}" />
+            <marker date="1540132290000" expanded="true" signature="780:1381" ph="{...}" />
+            <marker date="1540132290000" expanded="true" signature="933:1314" ph="{...}" />
+            <marker date="1540132290000" expanded="true" signature="1491:1575" ph="{...}" />
+            <marker date="1540132290000" expanded="true" signature="1624:1693" ph="{...}" />
+            <marker date="1540132290000" expanded="true" signature="1757:1826" ph="{...}" />
+            <marker date="1540132290000" expanded="true" signature="1868:1937" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -1,0 +1,55 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/Users/maikhanh/Desktop/Desktop Icon/AspDotNetCore/Demo/using-csharp-interfaces/03/demos/after/Extensibility/PersonRepository.SQL/PersonRepository.SQL.csproj",
+    "projectName": "PersonRepository.SQL",
+    "projectPath": "/Users/maikhanh/Desktop/Desktop Icon/AspDotNetCore/Demo/using-csharp-interfaces/03/demos/after/Extensibility/PersonRepository.SQL/PersonRepository.SQL.csproj",
+    "outputPath": "/Users/maikhanh/Desktop/Desktop Icon/AspDotNetCore/Demo/using-csharp-interfaces/03/demos/after/Extensibility/PersonRepository.SQL/obj/",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netstandard2.0"
+    ],
+    "frameworks": {
+      "netstandard2.0": {
+        "projectReferences": {
+          "/Users/maikhanh/Desktop/Desktop Icon/AspDotNetCore/Demo/using-csharp-interfaces/03/demos/after/Extensibility/PersonRepository.Interface/PersonRepository.Interface.csproj": {
+            "projectPath": "/Users/maikhanh/Desktop/Desktop Icon/AspDotNetCore/Demo/using-csharp-interfaces/03/demos/after/Extensibility/PersonRepository.Interface/PersonRepository.Interface.csproj"
+          }
+        }
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netstandard2.0": {
+      "dependencies": {
+        "Microsoft.EntityFrameworkCore": {
+          "target": "Package",
+          "version": "[2.1.4, )"
+        },
+        "Microsoft.EntityFrameworkCore.Sqlite": {
+          "target": "Package",
+          "version": "[2.1.4, )"
+        },
+        "NETStandard.Library": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.0.3, )",
+          "autoReferenced": true
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}

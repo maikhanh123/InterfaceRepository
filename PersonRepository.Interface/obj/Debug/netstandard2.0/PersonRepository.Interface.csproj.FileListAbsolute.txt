@@ -1,0 +1,9 @@
+/Users/maikhanh/Desktop/Desktop Icon/AspDotNetCore/Demo/using-csharp-interfaces/03/demos/after/Extensibility/PersonRepository.Interface/bin/Debug/netstandard2.0/PersonRepository.Interface.deps.json
+/Users/maikhanh/Desktop/Desktop Icon/AspDotNetCore/Demo/using-csharp-interfaces/03/demos/after/Extensibility/PersonRepository.Interface/bin/Debug/netstandard2.0/PersonRepository.Interface.dll
+/Users/maikhanh/Desktop/Desktop Icon/AspDotNetCore/Demo/using-csharp-interfaces/03/demos/after/Extensibility/PersonRepository.Interface/bin/Debug/netstandard2.0/PersonRepository.Interface.pdb
+/Users/maikhanh/Desktop/Desktop Icon/AspDotNetCore/Demo/using-csharp-interfaces/03/demos/after/Extensibility/PersonRepository.Interface/obj/Debug/netstandard2.0/PersonRepository.Interface.csprojAssemblyReference.cache
+/Users/maikhanh/Desktop/Desktop Icon/AspDotNetCore/Demo/using-csharp-interfaces/03/demos/after/Extensibility/PersonRepository.Interface/obj/Debug/netstandard2.0/PersonRepository.Interface.csproj.CoreCompileInputs.cache
+/Users/maikhanh/Desktop/Desktop Icon/AspDotNetCore/Demo/using-csharp-interfaces/03/demos/after/Extensibility/PersonRepository.Interface/obj/Debug/netstandard2.0/PersonRepository.Interface.AssemblyInfoInputs.cache
+/Users/maikhanh/Desktop/Desktop Icon/AspDotNetCore/Demo/using-csharp-interfaces/03/demos/after/Extensibility/PersonRepository.Interface/obj/Debug/netstandard2.0/PersonRepository.Interface.AssemblyInfo.cs
+/Users/maikhanh/Desktop/Desktop Icon/AspDotNetCore/Demo/using-csharp-interfaces/03/demos/after/Extensibility/PersonRepository.Interface/obj/Debug/netstandard2.0/PersonRepository.Interface.dll
+/Users/maikhanh/Desktop/Desktop Icon/AspDotNetCore/Demo/using-csharp-interfaces/03/demos/after/Extensibility/PersonRepository.Interface/obj/Debug/netstandard2.0/PersonRepository.Interface.pdb

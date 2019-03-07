@@ -1,0 +1,12 @@
+/Users/maikhanh/Desktop/Desktop Icon/AspDotNetCore/Demo/using-csharp-interfaces/03/demos/after/Extensibility/PersonRepository.Service/bin/Debug/netstandard2.0/PersonRepository.Service.deps.json
+/Users/maikhanh/Desktop/Desktop Icon/AspDotNetCore/Demo/using-csharp-interfaces/03/demos/after/Extensibility/PersonRepository.Service/bin/Debug/netstandard2.0/PersonRepository.Service.dll
+/Users/maikhanh/Desktop/Desktop Icon/AspDotNetCore/Demo/using-csharp-interfaces/03/demos/after/Extensibility/PersonRepository.Service/bin/Debug/netstandard2.0/PersonRepository.Service.pdb
+/Users/maikhanh/Desktop/Desktop Icon/AspDotNetCore/Demo/using-csharp-interfaces/03/demos/after/Extensibility/PersonRepository.Service/bin/Debug/netstandard2.0/PersonRepository.Interface.dll
+/Users/maikhanh/Desktop/Desktop Icon/AspDotNetCore/Demo/using-csharp-interfaces/03/demos/after/Extensibility/PersonRepository.Service/bin/Debug/netstandard2.0/PersonRepository.Interface.pdb
+/Users/maikhanh/Desktop/Desktop Icon/AspDotNetCore/Demo/using-csharp-interfaces/03/demos/after/Extensibility/PersonRepository.Service/obj/Debug/netstandard2.0/PersonRepository.Service.csprojAssemblyReference.cache
+/Users/maikhanh/Desktop/Desktop Icon/AspDotNetCore/Demo/using-csharp-interfaces/03/demos/after/Extensibility/PersonRepository.Service/obj/Debug/netstandard2.0/PersonRepository.Service.csproj.CoreCompileInputs.cache
+/Users/maikhanh/Desktop/Desktop Icon/AspDotNetCore/Demo/using-csharp-interfaces/03/demos/after/Extensibility/PersonRepository.Service/obj/Debug/netstandard2.0/PersonRepository.Service.AssemblyInfoInputs.cache
+/Users/maikhanh/Desktop/Desktop Icon/AspDotNetCore/Demo/using-csharp-interfaces/03/demos/after/Extensibility/PersonRepository.Service/obj/Debug/netstandard2.0/PersonRepository.Service.AssemblyInfo.cs
+/Users/maikhanh/Desktop/Desktop Icon/AspDotNetCore/Demo/using-csharp-interfaces/03/demos/after/Extensibility/PersonRepository.Service/obj/Debug/netstandard2.0/PersonRepository.Service.csproj.CopyComplete
+/Users/maikhanh/Desktop/Desktop Icon/AspDotNetCore/Demo/using-csharp-interfaces/03/demos/after/Extensibility/PersonRepository.Service/obj/Debug/netstandard2.0/PersonRepository.Service.dll
+/Users/maikhanh/Desktop/Desktop Icon/AspDotNetCore/Demo/using-csharp-interfaces/03/demos/after/Extensibility/PersonRepository.Service/obj/Debug/netstandard2.0/PersonRepository.Service.pdb

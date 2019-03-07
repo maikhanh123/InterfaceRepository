@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$PROJECT_DIR$" t="IncludeFlat">
+      <e p="Extensibility.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive">
+        <e p="SQLitePCLRaw.lib.e_sqlite3.osx.1.1.11/runtimes/osx-x64/native/libe_sqlite3.dylib" t="Include" />
+      </e>
+      <e p="People.Service" t="IncludeRecursive">
+        <e p="appsettings.Development.json" t="Include" />
+        <e p="appsettings.json" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Controllers" t="Include">
+          <e p="PeopleController.cs" t="Include" />
+        </e>
+        <e p="Models" t="Include">
+          <e p="IPeopleProvider.cs" t="Include" />
+          <e p="StaticPeopleProvider.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.1" t="Include">
+              <e p="People.Service.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="People.Service.csproj" t="IncludeRecursive" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="launchSettings.json" t="Include" />
+        </e>
+        <e p="Startup.cs" t="Include" />
+        <e p="wwwroot" t="Include" />
+      </e>
+      <e p="PeopleViewer" t="IncludeRecursive">
+        <e p="App.config" t="Include" />
+        <e p="App.xaml" t="Include" />
+        <e p="App.xaml.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Converters.cs" t="Include" />
+        <e p="MainWindow.xaml" t="Include" />
+        <e p="MainWindow.xaml.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="packages.config" t="Include" />
+        <e p="PeopleViewer.csproj" t="IncludeRecursive" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+          <e p="Resources.Designer.cs" t="Include" />
+          <e p="Resources.resx" t="Include" />
+          <e p="Settings.Designer.cs" t="Include" />
+          <e p="Settings.settings" t="Include" />
+        </e>
+      </e>
+      <e p="PersonRepository.CSV" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="CSVRepository.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netstandard2.0" t="Include">
+              <e p="PersonRepository.CSV.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="PersonRepository.CSV.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="PersonRepository.Factory" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netstandard2.0" t="Include">
+              <e p="PersonRepository.Factory.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="PersonRepository.Factory.csproj" t="IncludeRecursive" />
+        <e p="RepositoryFactory.cs" t="Include" />
+      </e>
+      <e p="PersonRepository.Interface" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="IPersonRepository.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netstandard2.0" t="Include">
+              <e p="PersonRepository.Interface.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Person.cs" t="Include" />
+        <e p="PersonRepository.Interface.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="PersonRepository.Service" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netstandard2.0" t="Include">
+              <e p="PersonRepository.Service.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="PersonRepository.Service.csproj" t="IncludeRecursive" />
+        <e p="ServiceRepository.cs" t="Include" />
+      </e>
+      <e p="PersonRepository.SQL" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netstandard2.0" t="Include">
+              <e p="PersonRepository.SQL.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="PersonContext.cs" t="Include" />
+        <e p="PersonRepository.SQL.csproj" t="IncludeRecursive" />
+        <e p="SQLRepository.cs" t="Include" />
+      </e>
+      <e p="Repositories" t="Include" />
+      <e p="Services" t="Include" />
+    </e>
+    <e p="$USER_HOME$/Library/Caches/Rider2018.2/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/Library/Caches/Rider2018.2/resharper-host/local/Transient/ReSharperHost/v182/SolutionCaches/_Extensibility.-787221290.00" t="ExcludeRecursive" />
+    <e p="$APPLICATION_CONFIG_DIR$/extensions" t="IncludeRecursive" />
+  </component>
+</project>

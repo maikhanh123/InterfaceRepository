@@ -1,0 +1,12 @@
+/Users/maikhanh/Desktop/Desktop Icon/AspDotNetCore/Demo/using-csharp-interfaces/03/demos/after/Extensibility/PersonRepository.SQL/bin/Debug/netstandard2.0/PersonRepository.SQL.deps.json
+/Users/maikhanh/Desktop/Desktop Icon/AspDotNetCore/Demo/using-csharp-interfaces/03/demos/after/Extensibility/PersonRepository.SQL/bin/Debug/netstandard2.0/PersonRepository.SQL.dll
+/Users/maikhanh/Desktop/Desktop Icon/AspDotNetCore/Demo/using-csharp-interfaces/03/demos/after/Extensibility/PersonRepository.SQL/bin/Debug/netstandard2.0/PersonRepository.SQL.pdb
+/Users/maikhanh/Desktop/Desktop Icon/AspDotNetCore/Demo/using-csharp-interfaces/03/demos/after/Extensibility/PersonRepository.SQL/bin/Debug/netstandard2.0/PersonRepository.Interface.dll
+/Users/maikhanh/Desktop/Desktop Icon/AspDotNetCore/Demo/using-csharp-interfaces/03/demos/after/Extensibility/PersonRepository.SQL/bin/Debug/netstandard2.0/PersonRepository.Interface.pdb
+/Users/maikhanh/Desktop/Desktop Icon/AspDotNetCore/Demo/using-csharp-interfaces/03/demos/after/Extensibility/PersonRepository.SQL/obj/Debug/netstandard2.0/PersonRepository.SQL.csprojAssemblyReference.cache
+/Users/maikhanh/Desktop/Desktop Icon/AspDotNetCore/Demo/using-csharp-interfaces/03/demos/after/Extensibility/PersonRepository.SQL/obj/Debug/netstandard2.0/PersonRepository.SQL.csproj.CoreCompileInputs.cache
+/Users/maikhanh/Desktop/Desktop Icon/AspDotNetCore/Demo/using-csharp-interfaces/03/demos/after/Extensibility/PersonRepository.SQL/obj/Debug/netstandard2.0/PersonRepository.SQL.AssemblyInfoInputs.cache
+/Users/maikhanh/Desktop/Desktop Icon/AspDotNetCore/Demo/using-csharp-interfaces/03/demos/after/Extensibility/PersonRepository.SQL/obj/Debug/netstandard2.0/PersonRepository.SQL.AssemblyInfo.cs
+/Users/maikhanh/Desktop/Desktop Icon/AspDotNetCore/Demo/using-csharp-interfaces/03/demos/after/Extensibility/PersonRepository.SQL/obj/Debug/netstandard2.0/PersonRepository.SQL.csproj.CopyComplete
+/Users/maikhanh/Desktop/Desktop Icon/AspDotNetCore/Demo/using-csharp-interfaces/03/demos/after/Extensibility/PersonRepository.SQL/obj/Debug/netstandard2.0/PersonRepository.SQL.dll
+/Users/maikhanh/Desktop/Desktop Icon/AspDotNetCore/Demo/using-csharp-interfaces/03/demos/after/Extensibility/PersonRepository.SQL/obj/Debug/netstandard2.0/PersonRepository.SQL.pdb

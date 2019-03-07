@@ -1,0 +1,12 @@
+/Users/maikhanh/Desktop/Desktop Icon/AspDotNetCore/Demo/using-csharp-interfaces/03/demos/after/Extensibility/PersonRepository.CSV/bin/Debug/netstandard2.0/PersonRepository.CSV.deps.json
+/Users/maikhanh/Desktop/Desktop Icon/AspDotNetCore/Demo/using-csharp-interfaces/03/demos/after/Extensibility/PersonRepository.CSV/bin/Debug/netstandard2.0/PersonRepository.CSV.dll
+/Users/maikhanh/Desktop/Desktop Icon/AspDotNetCore/Demo/using-csharp-interfaces/03/demos/after/Extensibility/PersonRepository.CSV/bin/Debug/netstandard2.0/PersonRepository.CSV.pdb
+/Users/maikhanh/Desktop/Desktop Icon/AspDotNetCore/Demo/using-csharp-interfaces/03/demos/after/Extensibility/PersonRepository.CSV/bin/Debug/netstandard2.0/PersonRepository.Interface.dll
+/Users/maikhanh/Desktop/Desktop Icon/AspDotNetCore/Demo/using-csharp-interfaces/03/demos/after/Extensibility/PersonRepository.CSV/bin/Debug/netstandard2.0/PersonRepository.Interface.pdb
+/Users/maikhanh/Desktop/Desktop Icon/AspDotNetCore/Demo/using-csharp-interfaces/03/demos/after/Extensibility/PersonRepository.CSV/obj/Debug/netstandard2.0/PersonRepository.CSV.csprojAssemblyReference.cache
+/Users/maikhanh/Desktop/Desktop Icon/AspDotNetCore/Demo/using-csharp-interfaces/03/demos/after/Extensibility/PersonRepository.CSV/obj/Debug/netstandard2.0/PersonRepository.CSV.csproj.CoreCompileInputs.cache
+/Users/maikhanh/Desktop/Desktop Icon/AspDotNetCore/Demo/using-csharp-interfaces/03/demos/after/Extensibility/PersonRepository.CSV/obj/Debug/netstandard2.0/PersonRepository.CSV.AssemblyInfoInputs.cache
+/Users/maikhanh/Desktop/Desktop Icon/AspDotNetCore/Demo/using-csharp-interfaces/03/demos/after/Extensibility/PersonRepository.CSV/obj/Debug/netstandard2.0/PersonRepository.CSV.AssemblyInfo.cs
+/Users/maikhanh/Desktop/Desktop Icon/AspDotNetCore/Demo/using-csharp-interfaces/03/demos/after/Extensibility/PersonRepository.CSV/obj/Debug/netstandard2.0/PersonRepository.CSV.csproj.CopyComplete
+/Users/maikhanh/Desktop/Desktop Icon/AspDotNetCore/Demo/using-csharp-interfaces/03/demos/after/Extensibility/PersonRepository.CSV/obj/Debug/netstandard2.0/PersonRepository.CSV.dll
+/Users/maikhanh/Desktop/Desktop Icon/AspDotNetCore/Demo/using-csharp-interfaces/03/demos/after/Extensibility/PersonRepository.CSV/obj/Debug/netstandard2.0/PersonRepository.CSV.pdb
